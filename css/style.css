@@ -3,4 +3,9 @@
     padding: auto;
     box-sizing: border-box;
 }
+@media (max-width: 426px) {
+    .post-header, .post-title{
+        width: 100%!important;
+    }
 
+}
